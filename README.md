@@ -1,7 +1,5 @@
 # Hi, I am Abdullah
-- Aspiring Software developer
-- Currently Learning Docker, Kubernetes.
-- Full Stack Web Developer, Flutter, React and few others 😂
+
 - Porfolio website coming soon!!
 - Follow me on [Twitter](twitter.com/abdullahSHA256)!!
 
