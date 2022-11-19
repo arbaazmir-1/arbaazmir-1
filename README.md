@@ -1,6 +1,6 @@
 # Hi, I am Abdullah
 
-- Porfolio website coming soon!!
+- Porfolio website under development!
 - Follow me on [Twitter](twitter.com/abdullahSHA256)!!
 
 ## Contact
