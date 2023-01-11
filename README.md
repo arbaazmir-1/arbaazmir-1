@@ -9,13 +9,15 @@ I specialize in Web Development with a focus on creating dynamic and responsive 
 ## Mobile Development
 I also develop mobile applications for both iOS and Android. My skills include:
 
-### Mobile Development: Skilled in mobile development using Flutter, Java, Kotlin, React Native and Ionic.
+### Mobile Development: Skilled in mobile development using Flutter, Java.
 
 ## Machine Learning
-I am familiar with Machine learning field as well. and able to leverage the power of data to make better decisions and drive growth.
-My skills include:
+Currently Learning Machine Learning.
+Goals for ML: 
 
-### Machine Learning: Familiar with machine learning and data analysis using Python, Tensorflow, Scikit-learn, Pandas, Numpy and Matplotlib.
+### Machine Learning Goals: Tensorflow, Scikit-learn, Pandas, Numpy and Matplotlib.
+
+### Lanuages That I know are C++, Java, Javascript, Typescript, Python, Dart.
 
 ## UI/UX Design
 I am good in design aspect too and design interface for web and mobile apps.
