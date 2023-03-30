@@ -1,3 +1,11 @@
+### Profile Overview:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=arbaazmir-1.arbaazmir-1&left_color=green&right_color=red)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbaazmir-1&layout=compact&langs_count=6&hide=html,css)
+
+[![Arbaazmir-1's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbaazmir-1)](https://github.com/arbaazmir-1/github-readme-stats)
+
+
 # Welcome to my GitHub profile!
 My name is Abdullah, and I am a Full Stack Web Developer, Mobile App Developer and Machine Learning Engineer. My portfolio website can be found at https://www.abdullahibnshahin.com where you can see some of my previous work and learn more about my skills and experience.
 
@@ -28,3 +36,5 @@ My skills include:
 If you're interested in working together or have any questions, please don't hesitate to reach out via email at nh1234566@gmail.com or connect with me on Twitter
 
 Thank you for visiting my GitHub profile!
+
+
