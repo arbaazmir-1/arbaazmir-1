@@ -7,17 +7,17 @@
 
 
 # Welcome to my GitHub profile!
-My name is Abdullah, and I am a Full Stack Web Developer, Mobile App Developer and Machine Learning Engineer. My portfolio website can be found at https://www.abdullahibnshahin.com where you can see some of my previous work and learn more about my skills and experience.
+My name is Abdullah, and I am a Full Stack Web Developer, Mobile App Developer. My portfolio website can be found at https://www.abdullahibnshahin.com where you can see some of my previous work and learn more about my skills and experience.
 
 ## Web Development
 I specialize in Web Development with a focus on creating dynamic and responsive web applications using the latest technologies. My skills include:
 
-### Web Development: Skilled in HTML, CSS, JavaScript, React and experienced in developing web applications using React, Next.js, Node.js, Express.js, MongoDB, Firebase, Vue and MySql.
+### Web Development: Skilled in HTML, CSS, JavaScript, React and experienced in developing web applications using React, Next.js, Node.js, Express.js, MongoDB, Firebase, Vue, Jest, Vitest, Tailwindcss, Bootstrap, Chakra and MySql.
 
 ## Mobile Development
 I also develop mobile applications for both iOS and Android. My skills include:
 
-### Mobile Development: Skilled in mobile development using Flutter, Java.
+### Mobile Development: Skilled in mobile development using Flutter, Java, React Native.
 
 ## Machine Learning
 Currently Learning Machine Learning.
