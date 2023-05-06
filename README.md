@@ -1,5 +1,5 @@
 ### Profile Overview:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=arbaazmir-1.arbaazmir-1&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=arbaazmir-1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbaazmir-1&layout=compact&langs_count=6&hide=html,css)
 
