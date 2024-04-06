@@ -33,8 +33,8 @@ My skills include:
 
 ### UI/UX Design: Skilled in designing user interfaces and user experiences using Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Adobe After Effects and Adobe Premiere Pro.
 # Contact
-If you're interested in working together or have any questions, please don't hesitate to reach out via email at nh1234566@gmail.com or connect with me on Twitter
-
+If you're interested in working together or have any questions, please don't hesitate to reach out via my website's contact form or connect with me on Twitter (X)
+ 
 Thank you for visiting my GitHub profile!
 
 
