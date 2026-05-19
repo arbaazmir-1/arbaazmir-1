@@ -44,4 +44,4 @@
 
 ---
 
-[abdullahibnshahin.com](https://abdullahibnshahin.com) · [email](mailto:hello@abdullahibnshahin.com)
+[abdullahibnshahin.com](https://abdullahibnshahin.com) · [email](mailto:me@abdullahibnshahin.com)
