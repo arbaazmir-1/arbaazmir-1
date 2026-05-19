@@ -37,9 +37,9 @@
 | | |
 |---|---|
 | Machine | ThinkPad T14 Gen 2i |
-| OS | Ubuntu 24.04 (Omakub) |
-| Terminal | Alacritty + Zellij |
-| Editor | Neovim |
+| OS | Arch - Hyperland |
+| Terminal | Alacritty + ZSH + Zellij |
+| Editor | VScode |
 | Office | MacBook Pro M1 |
 
 ---
